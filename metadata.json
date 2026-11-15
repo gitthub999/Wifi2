@@ -1,0 +1,6 @@
+{
+  "name": "AirLink Wi-Fi Manager",
+  "description": "Interactive Wi-Fi network scanner, password connection manager, and live signal strength monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
